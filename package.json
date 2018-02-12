@@ -1,0 +1,22 @@
+{
+  "name": "rgbd-dummy",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "color-convert": "^1.9.1",
+    "nes": "^7.0.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17",
+    "ws": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "prettier": "^1.9.2"
+  }
+}
